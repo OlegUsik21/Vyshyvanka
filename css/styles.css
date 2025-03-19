@@ -1,0 +1,87 @@
+/* Default styles */
+body {
+  font-family: Manrope, sans-serif;
+  color: #fcf9f9;
+  background-color: #1c2225;
+}
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+}
+span {
+  color: #ecd979;
+}
+.btn {
+  background-color: inherit;
+}
+h2 {
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 1.45;
+  letter-spacing: -0.03em;
+}
+h3 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  color: #fcf9f9;
+}
+h4 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  /* text-align: center; */
+}
+p {
+  letter-spacing: -0.04em;
+  color: rgba(252, 249, 249, 0.4);
+}
+/* Hero Section */
+
+.hero {
+}
+.header {
+}
+.hero-nav {
+}
+.hero-nav,
+.footer-nav {
+  font-size: 14px;
+  line-height: 1.29;
+  text-transform: uppercase;
+}
+.hero-logo {
+}
+.hero-list {
+}
+.hero-link {
+}
+.hero-item {
+}
+.hero-address {
+}
+.address-list {
+}
+.address-item {
+}
+.address-link {
+}
+.her-img {
+}
+.hero-title {
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 1.19;
+  letter-spacing: -0.03em;
+}
+.hero-star {
+}
+.star-text {
+  /* text-align: center; */
+  letter-spacing: -0.04em;
+  color: rgba(252, 249, 249, 0.4);
+}
